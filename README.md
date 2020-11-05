@@ -19,27 +19,27 @@ Qualquer questão que tenhas, podes sempre falar connosco a partir do [discord](
 ### Aula 3
 
 <h3 align="center">
-  <img src="imagens/aula3.png" alt="Imagem da aplicação da aula 3" />
+  <img src="imagens/aula3.png" alt="Imagem da aplicação da aula 3" style="width:175px;height:350px;" />
 </h3>
 
 
 ### Exercício 1
 
 <h3 align="center">
-  <img src="imagens/imeActions.gif" alt="Gif da aplicação do exercício 1" />
+  <img src="imagens/imeActions.gif" alt="Gif da aplicação do exercício 1" style="width:175px;height:350px; "/>
 </h3>
 
 
 ### Exercício 2
 
 <h3 align="center">
-  <img src="imagens/intentExtra.gif" alt="Gif da aplicação do exercício 2" />
+  <img src="imagens/intentExtra.gif" alt="Gif da aplicação do exercício 2" style="width:175px;height:350px;" />
 </h3>
 
 
 ### Exercício 3
 
 <h3 align="center">
-  <img src="imagens/scrollView.gif" alt="Gif da aplicação do exercício 3" />
+  <img src="imagens/scrollView.gif" alt="Gif da aplicação do exercício 3" style="width:175px;height:350px;" />
 </h3>
 
